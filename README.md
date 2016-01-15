@@ -1,3 +1,3 @@
-# arnesierens.github.io
+# Old personal website
 
-http://sierensarne.be
+http://v2.sierensarne.be
